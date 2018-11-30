@@ -1,0 +1,2 @@
+#!/bin/bash
+pandoc -V geometry:margin=1in -f gfm README.md -o README.pdf
